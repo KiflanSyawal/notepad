@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386028196830",
+    "project_id": "login-signup-frd-975a5",
+    "storage_bucket": "login-signup-frd-975a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386028196830:android:26be11b389e02f1a9d834f",
+        "android_client_info": {
+          "package_name": "com.example.notesyttutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEfhxYFuOd4AjQWQml6Rjg-EIopWa7Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
